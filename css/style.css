@@ -1,4 +1,68 @@
-h1 {
+.container {
     text-align: center;
 }
 
+#startOver {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    border: black;
+    background-color: white;
+}
+
+#home{
+    background-color: black;
+    color: white;
+}
+
+#winterWonderland {
+    background-color: rgb(52, 160, 248);
+}
+
+#north-pole {
+    background-color: red;
+}
+
+#santa {
+    background-color: green;
+}
+
+#isreal {
+    background-color: blue;
+}
+
+#reindeer {
+    background-color: rgb(66, 29, 7);
+}
+
+#Spooky {
+    background-color: gray;
+}
+
+#monster {
+    background-color: lightgreen;
+}
+
+#trick {
+    background-color: orange;
+}
+
+#costume {
+    background-color: plum;
+}
+
+#candy {
+    background-color: yellow;
+}
+
+#menorah {
+    background-color: gold;
+}
+
+#candle {
+    background-color: lightskyblue;
+}
+
+#oil {
+    background-color: darkgoldenrod;
+}
