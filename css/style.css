@@ -15,16 +15,32 @@
     color: white;
 }
 
+#witchImg {
+    width: 200px;
+}
+
 #winterWonderland {
     background-color: rgb(52, 160, 248);
+}
+
+#snowflakeImg {
+    width: 200px;
 }
 
 #north-pole {
     background-color: red;
 }
 
+#north-poleImg {
+    width: 250px;
+}
+
 #santa {
     background-color: green;
+}
+
+#santaImg {
+    width: 250px;
 }
 
 #isreal {
@@ -33,6 +49,11 @@
 
 #reindeer {
     background-color: rgb(66, 29, 7);
+    color: grey;
+}
+
+#reindeerImg {
+
 }
 
 #Spooky {
