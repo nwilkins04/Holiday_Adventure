@@ -39,6 +39,11 @@
     background-color: rgb(18, 102, 32);
 }
 
+#santaImg {
+    width: 250px;
+    margin: 10px;
+}
+
 #ChristmasQuiz {
     outline: black;
     background-color:  rgb(70, 214, 70);
@@ -49,9 +54,13 @@
     font-size: larger;
 }
 
-#santaImg {
-    width: 250px;
-    margin: 10px;
+#totalScore {
+    font: x-large;
+    background-color: rgb(70, 214, 70);
+    width: 40%;
+    border: 10px;
+    margin-bottom: 15px;
+    margin-left: 325px;
 }
 
 #isreal {
@@ -64,7 +73,7 @@
 }
 
 #reindeerImg {
-    
+
 }
 
 #Spooky {
