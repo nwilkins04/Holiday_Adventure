@@ -35,12 +35,23 @@
     width: 250px;
 }
 
-#santa {
-    background-color: green;
+#santapage {
+    background-color: rgb(18, 102, 32);
+}
+
+#ChristmasQuiz {
+    outline: black;
+    background-color:  rgb(70, 214, 70);
+    padding: 10px;
+}
+
+#question {
+    font-size: larger;
 }
 
 #santaImg {
     width: 250px;
+    margin: 10px;
 }
 
 #isreal {
@@ -53,7 +64,7 @@
 }
 
 #reindeerImg {
-
+    
 }
 
 #Spooky {
