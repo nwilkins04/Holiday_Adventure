@@ -89,6 +89,11 @@
     background-color: lightgreen;
 }
 
+#monsterImg {
+    width: 200px;
+    padding: 10px;
+}
+
 #trick {
     background-color: orange;
 }
