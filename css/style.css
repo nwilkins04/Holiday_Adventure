@@ -80,6 +80,11 @@
     background-color: gray;
 }
 
+#ghostImg {
+    width: 200px;
+    padding: 10px;
+}
+
 #monster {
     background-color: lightgreen;
 }
