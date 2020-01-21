@@ -111,6 +111,11 @@
     background-color: yellow;
 }
 
+#candyImg {
+    width: 300px;
+    padding: 10px;
+}
+
 #menorah {
     background-color: gold;
 }
