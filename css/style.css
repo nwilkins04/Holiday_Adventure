@@ -98,6 +98,11 @@
     background-color: orange;
 }
 
+#treatersImg {
+    width: 200px;
+    padding: 10px;
+}
+
 #costume {
     background-color: plum;
 }
