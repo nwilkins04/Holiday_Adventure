@@ -139,6 +139,11 @@
     background-color: lightskyblue;
 }
 
+#candleImg {
+    width: 200px;
+    padding: 10px;
+}
+
 #oil {
     background-color: darkgoldenrod;
 }
