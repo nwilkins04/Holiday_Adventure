@@ -67,6 +67,11 @@
     background-color: blue;
 }
 
+#isrealImg {
+    width: 200px;
+    padding: 10px;
+}
+
 #reindeer {
     background-color: rgb(66, 29, 7);
     color: grey;
@@ -107,6 +112,11 @@
     background-color: plum;
 }
 
+#costumeImg {
+    width: 200px;
+    padding: 10px;
+}
+
 #candy {
     background-color: yellow;
 }
@@ -126,4 +136,13 @@
 
 #oil {
     background-color: darkgoldenrod;
+}
+
+#dreidel {
+    background-color: rgb(189, 124, 39);
+}
+
+#dreidelImg {
+    width: 200px;
+    padding: 10px;
 }
