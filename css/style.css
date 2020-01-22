@@ -130,6 +130,11 @@
     background-color: gold;
 }
 
+#menorahImg {
+    width: 200px;
+    padding: 10px;
+}
+
 #candle {
     background-color: lightskyblue;
 }
