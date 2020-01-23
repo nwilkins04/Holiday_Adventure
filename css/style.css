@@ -10,9 +10,16 @@
     background-color: white;
 }
 
-#home{
+/* #home{
     background-color: black;
     color: white;
+} */
+
+#map {
+    position: absolute;
+    background-color: white;
+    bottom: 15px;
+    left: 150px;
 }
 
 #witchImg {
