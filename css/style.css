@@ -52,6 +52,24 @@
 
 #north-poleImg {
     width: 250px;
+    padding: 10px;
+}
+
+#elfImg {
+    width: 100px;
+    position: absolute;
+    left: 100px;
+}
+
+#presentImg {
+    width: 75px;
+    position: absolute;
+    left: 1350px;
+}
+
+#reset {
+    position: absolute;
+    top: 500px;
 }
 
 #santapage {
